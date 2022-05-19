@@ -1,6 +1,6 @@
 
 NAME		= libftprintf.a
-SRCS		= srcs/ft_printf.c srcs/ft_part1.c srcs/ft_part2.c
+SRCS		= srcs/ft_printf.c srcs/ft_printf_src1.c srcs/ft_printf_src2.c
 OBJS		= $(SRCS:.c=.o)
 CC			= gcc
 CFLAGS		= -Wall -Wextra -Werror
